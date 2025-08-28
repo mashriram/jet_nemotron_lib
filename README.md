@@ -59,11 +59,13 @@ Jet-Nemotron-2B and Jet-Nemotron-4B match or surpass the accuracy of leading eff
 ## Contents
 The code and pretrained models will be released after the legal review is completed.
 
-## Contact
+## References
 [Han Cai](http://hancai.ai/)
 
 [Yuxian Gu](https://t1101675.github.io/)
 
+# Contact
+[mashriram](mashriram@gmail.com)
 # 📖BibTeX
 ```
 @article{
@@ -74,3 +76,4 @@ The code and pretrained models will be released after the legal review is comple
  year={2025}
 }
 ```
+
